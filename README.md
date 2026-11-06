@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Babul Hossain | Full-Stack Developer Portfolio
 
-## Getting Started
+A modern, high-performance developer portfolio built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+Live showcase featuring production applications, case studies, interactive cost estimation, and direct contact channels.
+
+---
+
+## 🚀 Live Projects Featured
+
+* **[inflomart](https://www.inflomart.com)** &mdash; Full-Stack Modern E-Commerce Platform
+* **[SocialHub](https://socialwork-kappa.vercel.app/)** &mdash; Community Gathering & Event Discovery Web App
+* **[CanvasCraft BD](https://canvascraftbd.vercel.app/)** &mdash; Custom Art & Multi-Panel Wall Decor Storefront
+* **[Daily Bazar Dor](https://ajkerbazar.vercel.app/)** &mdash; Daily Commodity & Grocery Price Tracker
+* **[Fitlog](https://fitlog-six-mu.vercel.app/)** &mdash; Mobile-First Gym & Workout Tracker
+* **[SocialHub Backend API](https://mysocial-omega.vercel.app/)** &mdash; Modular Node.js / Express REST API with JWT Auth
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+* **Framework**: Next.js 16 (Turbopack, App Router, React Server Components)
+* **Library**: React 19
+* **Language**: TypeScript (Strict mode)
+* **Styling**: Tailwind CSS
+* **Icons**: Lucide Icons
+* **Animations**: CSS Compositor Transforms, Scroll-Driven Timeline, Spotlight Hover Reveal
+* **Theme**: Light, Dark & System Theme Sync (Zero FOUC)
+
+---
+
+## 💻 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/babulpro/portfolio-1.git
+cd portfolio-1
+npm install
+```
+
+Run the local development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Build for production:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact & Inquiries
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **WhatsApp**: [+8801920987588](https://wa.me/8801920987588)
+* **Email**: [babul1946@gmail.com](mailto:babul1946@gmail.com)
+* **LinkedIn**: [Babul Hossain](https://www.linkedin.com/in/babul-hossain-917472332/)
+* **GitHub**: [@babulpro](https://github.com/babulpro)
